@@ -23,7 +23,8 @@
         "test": "react-scripts test",
         "predeploy": "react-scripts build",
         "deploy": "gh-pages -d build",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "homepage": "http://ruthraj.github.io/"
     },
     "eslintConfig": {
         "extends": [
